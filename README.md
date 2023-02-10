@@ -26,7 +26,6 @@
   <img  align="center" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img  align="center" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     <img  align="center" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
-     <img align="center" height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
 </div>
 
 ![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
