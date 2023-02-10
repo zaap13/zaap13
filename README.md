@@ -18,7 +18,7 @@
   </a>
 </p>
 
-![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
+![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
 
 <div style="display:flex">
   <img  align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -29,8 +29,8 @@
      <img align="center" height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
 </div>
 
-![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
-  
+![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
+
 <div style="display:flex">
   <img  align="center" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
   <img  align="center" height="30"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -39,7 +39,7 @@
   <img align="center" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
-![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
+![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
 
 <div style="display:flex">
   <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -49,4 +49,4 @@
   <img align="center" height="30" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
 </div>
 
-![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
+![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
