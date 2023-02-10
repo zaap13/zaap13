@@ -1,7 +1,14 @@
+<p>👋 Olá, eu sou o Felipe Bueno</p>
+<p>💻 Sou um desenvolvedor web Full-Stack formado pela Driven Education, com conhecimentos em tecnologias Front-end, Back-end e DevOps.</p>
+<p>🎨 No Front-end, trabalho com HTML, CSS, React JS, Typescript e Styled Components para criar interfaces incríveis.</p>
+<p>💻 No Back-end, tenho experiência com Node JS, Express, Typescript, Prisma (ORM), Jest e arquitetura em camadas, para criar soluções robustas e escaláveis.</p>
+<p>🔧 Conhecimento em Docker, AWS e Github Actions para entregar projetos de forma ágil e segura.</p>
+<p>🚀 Além disso, estou familiarizado com Git, Visual Studio Code, Trello e Slack, o que me permite trabalhar de forma colaborativa e eficiente.</p>
+<p>✨ Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e habilidades. Qualquer dúvida, entre em contato:</p>
 
 
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/felipe-bueno-ferreira/">
     <img align="center" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -20,6 +27,8 @@
     <img  align="center" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
      <img align="center" height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
 </div>
+
+
   
 <div style="display:flex">
   <img  align="center" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
@@ -28,12 +37,12 @@
   <img align="center" height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest">
   <img align="center" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-<div style="display:flex">
 
+
+<div style="display:flex">
   <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img align="center" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img align="center" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
   <img align="center" height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img align="center" height="30" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
-
 </div>
