@@ -1,3 +1,4 @@
+![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
 <p>👋 Olá, eu sou o Felipe Bueno</p>
 <p>💻 Sou um desenvolvedor web Full-Stack formado pela Driven Education, com conhecimentos em tecnologias Front-end, Back-end e DevOps.</p>
 <p>🎨 No Front-end, trabalho com HTML, CSS, React JS, Typescript e Styled Components para criar interfaces incríveis.</p>
@@ -17,7 +18,7 @@
   </a>
 </p>
 
-
+![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
 
 <div style="display:flex">
   <img  align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -28,7 +29,7 @@
      <img align="center" height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
 </div>
 
-
+![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
   
 <div style="display:flex">
   <img  align="center" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
@@ -38,6 +39,7 @@
   <img align="center" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
+![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
 
 <div style="display:flex">
   <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -46,3 +48,5 @@
   <img align="center" height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img align="center" height="30" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
 </div>
+
+![pretoevermelho.gif](https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/pretoevermelho.gif)
