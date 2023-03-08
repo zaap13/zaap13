@@ -1,5 +1,5 @@
 ![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
-<p>👋 Olá, eu sou o Felipe Bueno</p>
+<h1 align="left">👋 Olá, eu sou o Felipe Bueno</h2>
 <p>💻 Sou um desenvolvedor web Full-Stack formado pela Driven Education, com conhecimentos em tecnologias Front-end, Back-end e DevOps.</p>
 <p>🎨 No Front-end, trabalho com HTML, CSS, React JS, Typescript e Styled Components para criar interfaces incríveis.</p>
 <p>💻 No Back-end, tenho experiência com Node JS, Express, Typescript, Prisma (ORM), Jest e arquitetura em camadas, para criar soluções robustas e escaláveis.</p>
@@ -18,34 +18,28 @@
   </a>
 </p>
 
-![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
+<h2 align="left">Techs</h2>
 
-<div style="display:flex">
-  <img  align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img  align="center" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img  align="center" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img  align="center" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-    <img  align="center" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+  <img width="40" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+
 </div>
 
-![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
 
-<div style="display:flex">
-  <img  align="center" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
-  <img  align="center" height="30"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img align="center" height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
-  <img align="center" height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest">
-  <img align="center" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
-
-![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
-
-<div style="display:flex">
-  <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img align="center" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img align="center" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
-  <img align="center" height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img align="center" height="30" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
-</div>
-
-![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)![divisoria2.gif](https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif)
