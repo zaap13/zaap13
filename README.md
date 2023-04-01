@@ -8,7 +8,6 @@
 <p>✨ Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e habilidades. Qualquer dúvida, entre em contato:</p>
 
 
-
 <p align="start">
   <a href="https://www.linkedin.com/in/felipe-bueno-ferreira/">
     <img align="center" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -18,6 +17,7 @@
   </a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/6644612f-41ae-4560-939c-6a1e04cddf70.svg)](https://wakatime.com/@6644612f-41ae-4560-939c-6a1e04cddf70)
 <h2 align="left">Techs</h2>
 
 ###
